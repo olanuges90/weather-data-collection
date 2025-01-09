@@ -1,6 +1,7 @@
 # Real-Time Weather Data Collection - Day 1 AllStarsDevOps Challenge
 
-![weatherdata diagram](https://github.com/user-attachments/assets/f7fead5e-4fd5-4e93-9b0e-5571491ac028)
+![image](https://github.com/user-attachments/assets/e65dc8b1-abb0-4d0f-8dc6-1b3c78d69369)
+
 
 # Project Overiew
 In this Project, I will build a Python Application that fetches real-time weather data from the OpenWeather API and the collected data will be securely stored in AWS S3 Bucket.
