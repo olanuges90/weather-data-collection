@@ -1,4 +1,4 @@
-# Real-Time Weather Data Collection - Day 1 AllStarsDevOps Challenge
+# Real-Time Weather Data Collection
 
 ![image](https://github.com/user-attachments/assets/e65dc8b1-abb0-4d0f-8dc6-1b3c78d69369)
 
